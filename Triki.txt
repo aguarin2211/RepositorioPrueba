@@ -1,2 +1,9 @@
 Este es mi primer triki en taller
 Cometario desde la pagina de github
+
+Triki IF
+ _ _ _
+|_|_|_|
+|_|_|_|
+|_|_|_|
+
